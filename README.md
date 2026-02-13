@@ -1,5 +1,4 @@
 ## Hi, I'm Jordan! 👋
 
-🚀 **Aspiring Data Scientist & AI Enthusiast**   
-Passionate about turning data into actionable insights and building intelligent systems.   
-👩🏻‍🎓 Studied Data Science at the Tunku Abdul Rahman University of Management and Technology (TAR UMT), Malaysia
+👨🏻‍🎓 **Data Science Graduate** from Tunku Abdul Rahman University of Management and Technology (TARUMT), Malaysia  
+Focused on applying data-driven approaches to solve real-world problems and leveraging AI to create intelligent solutions.
